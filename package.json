@@ -1,0 +1,12 @@
+{
+  "name": "yarn-workspace-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VG",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ]
+}
